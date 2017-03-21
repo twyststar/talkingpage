@@ -1,0 +1,20 @@
+body {
+  background-image: url(http://vignette3.wikia.nocookie.net/simpsons/images/5/50/Wiki-background/revision/20101121185344);
+}
+
+img {
+  width: 100%;
+  display: none;
+}
+ .center{
+text-align: center;
+ }
+ h2 {
+   background-color: #bad6c6;
+ }
+.container {
+
+}
+.btn {
+  background-color: #f8fc1e;
+}
