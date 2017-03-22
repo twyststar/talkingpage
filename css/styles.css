@@ -10,7 +10,10 @@ img {
 text-align: center;
  }
  h2 {
-   background-color: #bad6c6;
+   background-color:#ba3535;
+ }
+ p {
+   font-size: 16px;
  }
 .container {
 
