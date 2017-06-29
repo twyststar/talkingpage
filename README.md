@@ -5,6 +5,7 @@ A simple page that uses button input to create a conversation between a cat and 
 ### Instructions
 
 _clone this repository to desktop_
+
 _open index.html in browser_
 
 
